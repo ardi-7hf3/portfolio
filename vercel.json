@@ -1,13 +1,5 @@
 {
   "rewrites": [
     { "source": "/(.*)", "destination": "/" }
-  ],
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist",
-  "devCommand": "npm run dev",
-  "installCommand": "npm install",
-  "env": {
-    "VITE_SUPABASE_URL": "https://owbhpupicqabpchvpcui.supabase.co",
-    "VITE_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im93YmhwdXBpY3FhYnBjaHZwY3VpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE3NTk3NDAsImV4cCI6MjA4NzMzNTc0MH0.m-SfHS1iCQPerBhj97piQc0G3L1vJhIFx92V0FF-nRQ"
-  }
+  ]
 }
