@@ -150,6 +150,7 @@ const WelcomeScreen = ({ onLoadingComplete }) => {
                 variants={childVariants}
                 data-aos="fade-up"
                 data-aos-delay="1200"
+                data-aos-duration="1500"
               >
                 <a
                   href="https://www.ardi7hf3.my.id"
